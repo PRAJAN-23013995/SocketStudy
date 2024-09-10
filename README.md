@@ -1,4 +1,9 @@
 # Ex.No:1a  			Study of Socket Programming
+Name: PRAJAN P
+
+Regno: 212223240121
+
+Date: 09.09.2024
 
 ## Aim: 
 To perform a study on Socket Programming
